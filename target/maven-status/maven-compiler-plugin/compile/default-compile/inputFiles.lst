@@ -1,0 +1,11 @@
+/home/rubickcuv/Documentos/Curso/hexagonalArchitecture/src/main/java/com/lostsys/sample/hexagonal/Application.java
+/home/rubickcuv/Documentos/Curso/hexagonalArchitecture/src/main/java/com/lostsys/sample/hexagonal/infra/inputadapter/CustomerAPI.java
+/home/rubickcuv/Documentos/Curso/hexagonalArchitecture/src/main/java/com/lostsys/sample/hexagonal/domain/Orders.java
+/home/rubickcuv/Documentos/Curso/hexagonalArchitecture/src/main/java/com/lostsys/sample/hexagonal/infra/outputport/EntityRepository.java
+/home/rubickcuv/Documentos/Curso/hexagonalArchitecture/src/main/java/com/lostsys/sample/hexagonal/infra/inputport/CustomerInputPort.java
+/home/rubickcuv/Documentos/Curso/hexagonalArchitecture/src/main/java/com/lostsys/sample/hexagonal/application/CustomerUseCase.java
+/home/rubickcuv/Documentos/Curso/hexagonalArchitecture/src/main/java/com/lostsys/sample/hexagonal/infra/inputadapter/OrderAPI.java
+/home/rubickcuv/Documentos/Curso/hexagonalArchitecture/src/main/java/com/lostsys/sample/hexagonal/infra/inputport/OrderInputPort.java
+/home/rubickcuv/Documentos/Curso/hexagonalArchitecture/src/main/java/com/lostsys/sample/hexagonal/infra/outputadapter/PostgresRepository.java
+/home/rubickcuv/Documentos/Curso/hexagonalArchitecture/src/main/java/com/lostsys/sample/hexagonal/application/OrderUseCase.java
+/home/rubickcuv/Documentos/Curso/hexagonalArchitecture/src/main/java/com/lostsys/sample/hexagonal/domain/Customer.java
